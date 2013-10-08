@@ -1,0 +1,6 @@
+Your app has been created.
+
+App URL http://drdome.herokuapp.com/
+Git URL git@heroku.com:drdome.git  
+Use the following code to set up your app for local development.
+git clone git@heroku.com:drdome.git -o heroku 
