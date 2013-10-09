@@ -112,6 +112,10 @@ section:last-child {
 	padding: 20px 0 10px;
 }
 
+section.footer {
+	font-size: 0.5em;
+}
+
 .sectionTitle {
 	float: left;
 	width: 25%;
